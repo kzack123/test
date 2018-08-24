@@ -2,7 +2,7 @@
   "name": "mytest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kzack123/test",
+  "homepage": "https://kzack123.github.io/test/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
